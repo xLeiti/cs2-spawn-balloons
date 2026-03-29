@@ -38,7 +38,7 @@ Definition insta lineup: A lineup that is perfomed directly from a spawn locatio
 3. Edit the ```main.cfg``` in the spawns folder. Change your ```toggleSpawns```-key (default: F3)
 4. Add ```exec spawns/main``` to your autoexec.
 5. Join a competitive map in practice mode.
-6. Press ```F3``` (your toggleSpawns-key) to toggle the spawn balloons on/off.
+6. Press ```F3 / your toggleSpawns-key``` to toggle the spawn balloons on/off.
 7. Interact with a balloon to tp to that spawn position
 
 The config automatically detects which map you are on and loads the correct spawn balloons accordingly.
