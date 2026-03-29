@@ -1,6 +1,6 @@
 # Spawns config
 
-This config adds balloon entities on the spawn location of every competitive map.
+This config adds balloon entities on the spawn location of all 14 competitive map.
 
 If you interact with an balloon (shoot at it, knife it, or press your use-key), you get teleported to that spawn position - similar to the feature in refrag.
 
