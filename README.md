@@ -1,6 +1,6 @@
 # Spawns config
 
-This config adds balloon entities on the spawn location of all 14 competitive map.
+This cs2 config adds balloon entities on the spawn locations of all 14 competitive map.
 
 If you interact with an balloon (shoot at it, knife it, or press your use-key), you get teleported to that spawn position - similar to the feature in refrag.
 
@@ -14,7 +14,7 @@ If you interact with an balloon (shoot at it, knife it, or press your use-key), 
 
 🟩 A well known insta lineup exists for this spawn
 
-Definition insta lineup: A lineup that is perfomed directly from a spawn location. Only one movement key (WASD) can be pressed, a sequence of multiple movement keys doesn't count.
+Definition insta lineup: A lineup that is performed directly from a spawn location. Only one movement key (WASD) can be pressed, a sequence of multiple movement keys doesn't count.
 
 ### Supported maps:
 - de_mirage
