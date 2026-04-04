@@ -2,7 +2,7 @@
 
 This cs2 config adds balloon entities on the spawn locations of all 14 competitive map.
 
-If you interact with an balloon (shoot at it, knife it, or press your use-key), you get teleported to that spawn position - similar to the feature in refrag.
+If you interact with a balloon (shoot at it, knife it, or press your use-key), you get teleported to that spawn position - similar to the feature in refrag.
 
 ![20C3E9~1](https://github.com/user-attachments/assets/459d9d45-9d12-4737-ad49-326c60dec97d)
 
