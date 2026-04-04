@@ -14,6 +14,8 @@ If you interact with an balloon (shoot at it, knife it, or press your use-key), 
 
 🟩 A well known insta lineup exists for this spawn
 
+🟦 This maps is not supported. Automaticalyl generated balloon
+
 Definition insta lineup: A lineup that is performed directly from a spawn location. Only one movement key (WASD) can be pressed, a sequence of multiple movement keys doesn't count.
 
 ### Supported maps:
@@ -31,6 +33,15 @@ Definition insta lineup: A lineup that is performed directly from a spawn locati
 - cs_italy
 - cs_office
 - cs_alpine
+
+### Unsupported map
+On unsupported maps the config automatically geenrates blue balloons for all spawn positions (including casual & wingman spawns).
+
+Add this to your launch options, otherwise the balloons won't work on workshop maps:
+```-disable_workshop_command_filtering```
+
+<img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/a637ac31-5512-4018-8c48-2d50efb1274b" />
+
 
 # Installation 
 1. Download the config
