@@ -14,7 +14,7 @@ If you interact with an balloon (shoot at it, knife it, or press your use-key), 
 
 🟩 A well known insta lineup exists for this spawn
 
-🟦 This maps is not supported. Automaticalyl generated balloon
+🟦 This maps is not supported. Automatically generated balloon
 
 Definition insta lineup: A lineup that is performed directly from a spawn location. Only one movement key (WASD) can be pressed, a sequence of multiple movement keys doesn't count.
 
