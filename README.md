@@ -35,7 +35,7 @@ Definition insta lineup: A lineup that is performed directly from a spawn locati
 - cs_alpine
 
 ### Unsupported map
-On unsupported maps the config automatically geenrates blue balloons for all spawn positions (including casual & wingman spawns).
+On unsupported maps the config automatically generates blue balloons for all spawn positions (including casual & wingman spawns).
 
 Add this to your launch options, otherwise the balloons won't work on workshop maps:
 ```-disable_workshop_command_filtering```
